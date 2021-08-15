@@ -24,6 +24,9 @@ $ cd iOSImageAssetResizer1x2x3x
 
 # Run the script
 $ ./123ImageResizer.sh
+
+#If you have 'permission denied' when trying to run, try:
+$ chmod +x ./123ImageResizer.sh
 ```
 ## Demo
 
