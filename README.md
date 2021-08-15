@@ -27,7 +27,7 @@ $ ./123ImageResizer.sh
 ```
 ## Demo
 
-<img align="center" src="https://github.com/TheRealAnt/iOSImageAssetResizer1x2x3x/blob/main/img/demo.gif" width="1000" height="400" />
+<img align="center" src="https://github.com/TheRealAnt/iOSImageAssetResizer1x2x3x/blob/main/img/demo.gif" width="1000" height="500" />
 
 ## License
 
